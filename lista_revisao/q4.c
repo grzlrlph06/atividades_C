@@ -4,6 +4,8 @@ usuário é um número de Harshad (ou Niven), ou seja, um número que é divisí
 Por exemplo, 18 é um número de Harshad porque 18 é divisível por 9 (1 + 8).
 */
 
+//falta ajeitar 
+
 #include <stdio.h>
 #include <stdlib.h>
 
