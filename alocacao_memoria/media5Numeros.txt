@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+    int qtdNumeros = 5, contador = 0;
+    char resposta;
+    float media = 0.0;
+    float *nums, *numsR;
+
+    nums = (float*) malo
+}
